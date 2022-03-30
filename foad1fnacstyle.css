@@ -1,0 +1,25 @@
+header{margin-left: 30vh;}
+
+.entête a{ display: block;margin-left: 10vw;margin-top: 1vw;color: black;}
+.entête{ margin-top: 3vw;}
+.container1{ margin-left: 25vw;position: absolute;top:  40vh; width: 70vw;}
+.logo2{height: 200px;}
+.product img{width: 10vw;}
+
+.tel{display: flex;}
+.tel img{width: 10vw;}
+.tel p{text-align: center;}
+
+.ordi{display: flex;}
+.ordi img{width: 10vw;}
+.ordi{text-align: center;}
+
+.tv{display: flex;}
+.tv img{width: 10vw;}
+.tv {text-align: center;}
+
+.app{display: flex;}
+.app img{width: 10vw;}
+.app {text-align: center;}
+
+
